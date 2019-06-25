@@ -1,2 +1,2 @@
 # tdd_cleancode
-Minimalist environment with 3 simples katas to learn Test Driven Development philosophy
+Minimalist environment with some katas to learn Test Driven Development philosophy with Javascript ESNext
